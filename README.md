@@ -1,0 +1,27 @@
+# Pneumatic Espresso Pump Holder (peph)
+
+A 3D-printed bracket that holds a portable air pump alongside the [Gilka Pneumatic Espresso Machine](https://gilka-coffee-store.com/products/gilka-pneumatic-espresso-machine-1), keeping your setup tidy and hands-free during pulls.
+
+![Pump holder design](peph.png)
+
+## My Setup
+
+- **Espresso machine:** [Gilka Pneumatic Espresso Machine](https://gilka-coffee-store.com/products/gilka-pneumatic-espresso-machine-1)
+- **Air pump:** [AliExpress mini air pump](https://www.aliexpress.us/item/3256811744264446.html)
+
+## Downloads
+
+| File | Description |
+|------|-------------|
+| [`peph.3mf`](peph.3mf) | Ready-to-print 3MF — open in your slicer and go |
+| [`pneumatic-espresso-pump-holder.FCStd`](pneumatic-espresso-pump-holder.FCStd) | FreeCAD source file for modifications |
+
+## Printing
+
+- No supports needed
+- Any material works (PETG recommended for heat resistance near espresso gear)
+- Standard 0.2mm layer height, 20%+ infill
+
+## License
+
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — share and adapt freely with attribution.
