@@ -24,4 +24,4 @@ A 3D-printed bracket that holds a portable air pump alongside the [Gilka Pneumat
 
 ## License
 
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — share and adapt freely with attribution.
+[GNU GPL v3](LICENSE)
