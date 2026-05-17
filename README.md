@@ -4,6 +4,10 @@ A 3D-printed bracket that holds a portable air pump alongside the [Gilka Pneumat
 
 ![Pump holder design](peph.png)
 
+![Gilka espresso machine with pump and stand](gilka-with-stand.jpeg)
+
+![Pump sitting on the 3D-printed stand](pump-on-stand.jpeg)
+
 ## My Setup
 
 - **Espresso machine:** [Gilka Pneumatic Espresso Machine](https://gilka-coffee-store.com/products/gilka-pneumatic-espresso-machine-1)
