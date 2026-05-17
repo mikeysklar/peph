@@ -10,8 +10,12 @@ A 3D-printed bracket that holds a portable air pump alongside the [Gilka Pneumat
 
 ## My Setup
 
-- **Espresso machine:** [Gilka Pneumatic Espresso Machine](https://gilka-coffee-store.com/products/gilka-pneumatic-espresso-machine-1)
-- **Air pump:** [AliExpress mini air pump](https://www.aliexpress.us/item/3256811744264446.html)
+A portable pneumatic espresso setup: the Gilka uses pressurized air to pull a shot, and the mini pump provides that pressure without requiring a bulky hand pump.
+
+| Item | Vendor | Price | Description |
+|------|--------|-------|-------------|
+| [Gilka Pneumatic Espresso Machine](https://gilka-coffee-store.com/products/gilka-pneumatic-espresso-machine-1) | Gilka Coffee Store | $249 | Portable titanium espresso machine driven by pressurized air |
+| [Mini Air Pump](https://www.aliexpress.us/item/3256811744264446.html) | AliExpress | $65 | Compact electric pump that pressurizes the Gilka for hands-free pulls |
 
 ## Downloads
 
