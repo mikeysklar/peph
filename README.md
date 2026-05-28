@@ -8,6 +8,10 @@ A 3D-printed bracket that holds a portable air pump alongside the [Gilka Pneumat
 
 ![Pump sitting on the 3D-printed stand](pump-on-stand.jpeg)
 
+![Espresso pulling hands-free with pump mounted on stand](pull.jpeg)
+
+![Hands-free shot pull in action](peph.gif)
+
 ## My Setup
 
 A portable pneumatic espresso setup: the Gilka uses pressurized air to pull a shot, and the mini pump provides that pressure without requiring a bulky hand pump.
