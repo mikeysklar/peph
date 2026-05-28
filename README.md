@@ -1,4 +1,4 @@
-# Pneumatic Espresso Pump Holder (peph)
+# Pneumatic Espresso Pump Holder (PEPH)
 
 A 3D-printed bracket that holds a portable air pump alongside the [Gilka Pneumatic Espresso Machine](https://gilka-coffee-store.com/products/gilka-pneumatic-espresso-machine-1), keeping your setup tidy and hands-free during pulls.
 
